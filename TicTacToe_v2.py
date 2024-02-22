@@ -1,5 +1,5 @@
 def insert_str(string, index, mark):
-    return string[:index] + mark + string[index+1:] #method copied
+    return string[:index] + mark + string[index+1:] 
 
 
 def choose_position():
